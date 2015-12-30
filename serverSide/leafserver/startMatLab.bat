@@ -1,0 +1,1 @@
+"C:\Program Files\MATLAB\R2012a\bin\matlab.exe" -nodisplay -nosplash -nodesktop -r "cd('E:\OZONE_METER\'); run('E:\OZONE_METER\mCENTRIST_Test_ozon_modified.m'); exit;

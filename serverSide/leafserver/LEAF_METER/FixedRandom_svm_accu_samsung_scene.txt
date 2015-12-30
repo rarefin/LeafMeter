@@ -1,0 +1,192 @@
+round 1 accuracy: 79.17
+round 2 accuracy: 78.75
+round 3 accuracy: 78.96
+round 4 accuracy: 79.79
+round 5 accuracy: 78.96
+Average accuracy: 79.13, Standard deviation: 0.40 svmaccu: 79.13
+round 1 accuracy: 78.13
+round 2 accuracy: 79.38
+round 3 accuracy: 78.33
+round 4 accuracy: 78.54
+round 5 accuracy: 75.42
+Average accuracy: 77.96, Standard deviation: 1.50 svmaccu: 77.96
+
+8 EVENT category tr = 70 TS 60 image size 300 only sobel 
+
+round 1 accuracy: 75.83
+round 2 accuracy: 76.67
+round 3 accuracy: 76.88
+round 4 accuracy: 76.25
+round 5 accuracy: 74.58
+Average accuracy: 76.04, Standard deviation: 0.91 svmaccu: 76.04
+
+8 EVENT category tr = 70 TS 60 image size 300 only o1
+round 1 accuracy: 78.33
+round 2 accuracy: 78.75
+round 3 accuracy: 79.17
+round 4 accuracy: 80.42
+round 5 accuracy: 77.29
+Average accuracy: 78.79, Standard deviation: 1.14 svmaccu: 78.79
+
+8 EVENT category tr = 70 TS 60 image size 300 only o2
+
+round 1 accuracy: 71.67
+round 2 accuracy: 70.42
+round 3 accuracy: 71.88
+round 4 accuracy: 72.50
+round 5 accuracy: 69.58
+Average accuracy: 71.21, Standard deviation: 1.18 svmaccu: 71.21
+
+8 EVENT category tr = 70 TS 60 image size 300 only o3
+round 1 accuracy: 73.54
+round 2 accuracy: 70.00
+round 3 accuracy: 71.46
+round 4 accuracy: 70.00
+round 5 accuracy: 70.63
+Average accuracy: 71.13, Standard deviation: 1.48 svmaccu: 71.13
+
+
+sun 397 tr=50 ts=50 GRAY CENTRIST 
+round 1 accuracy: 19.59
+round 2 accuracy: 19.45
+round 3 accuracy: 18.94
+round 4 accuracy: 19.52
+round 5 accuracy: 19.26
+Average accuracy: 19.35, Standard deviation: 0.26 svmaccu: 19.35
+
+emon garmen db org centrist
+
+round 1 accuracy: 79.35
+round 2 accuracy: 74.54
+round 3 accuracy: 79.67
+round 4 accuracy: 79.96
+round 5 accuracy: 80.92
+Average accuracy: 74.22, Standard deviation: 1.44 svmaccu: 78.89
+
+round 1 accuracy: 64.37
+round 2 accuracy: 65.19
+round 3 accuracy: 64.86
+round 4 accuracy: 65.37
+round 5 accuracy: 64.14
+Average accuracy: 48.86, Standard deviation: 0.98 svmaccu: 64.78
+
+round 1 accuracy: 57.02
+round 2 accuracy: 57.87
+round 3 accuracy: 58.61
+round 4 accuracy: 57.13
+round 5 accuracy: 56.94
+Average accuracy: 36.29, Standard deviation: 1.44 svmaccu: 57.51
+round 1 accuracy: 64.94
+round 2 accuracy: 65.91
+round 3 accuracy: 65.42
+round 4 accuracy: 65.48
+round 5 accuracy: 64.41
+Average accuracy: 49.12, Standard deviation: 1.20 svmaccu: 65.23
+
+
+caltech 256 gray no sqrt org centrist tr =60
+
+round 1 accuracy: 32.55
+round 2 accuracy: 32.52
+round 3 accuracy: 32.28
+round 4 accuracy: 33.22
+round 5 accuracy: 33.01
+Average accuracy: 26.10, Standard deviation: 0.33 svmaccu: 32.72
+
+caltech 256 gray no sqrt org centrist tr =30
+round 1 accuracy: 25.98
+round 2 accuracy: 25.22
+round 3 accuracy: 26.08
+round 4 accuracy: 25.58
+round 5 accuracy: 26.15
+Average accuracy: 21.71, Standard deviation: 0.27 svmaccu: 25.80
+
+
+
+caltech 101 gray sqrt org centrist tr =30
+
+round 1 accuracy: 66.37
+round 2 accuracy: 66.62
+round 3 accuracy: 66.26
+round 4 accuracy: 66.93
+round 5 accuracy: 65.37
+Average accuracy: 50.38, Standard deviation: 0.76 svmaccu: 66.31
+
+poka nasa
+
+round 1 accuracy: 56.43
+round 2 accuracy: 47.14
+round 3 accuracy: 49.29
+round 4 accuracy: 43.57
+round 5 accuracy: 47.14
+Average accuracy: 50.35, Standard deviation: 3.88 svmaccu: 48.71
+
+round 1 accuracy: 80.95
+round 2 accuracy: 80.95
+round 3 accuracy: 73.81
+round 4 accuracy: 75.00
+round 5 accuracy: 83.33
+Average accuracy: 79.91, Standard deviation: 3.80 svmaccu: 78.81
+round 1 accuracy: 77.38
+Average accuracy: 15.64, Standard deviation: 34.97 svmaccu: 77.38
+round 1 accuracy: 82.14
+Average accuracy: 16.60, Standard deviation: 37.11 svmaccu: 82.14
+round 1 accuracy: 86.90
+Average accuracy: 17.56, Standard deviation: 39.26 svmaccu: 86.90
+round 1 accuracy: 85.71
+Average accuracy: 17.33, Standard deviation: 38.76 svmaccu: 85.71
+round 1 accuracy: 85.71
+Average accuracy: 17.30, Standard deviation: 38.68 svmaccu: 85.71
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: NaN, Standard deviation: NaN svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: NaN, Standard deviation: NaN svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: NaN, Standard deviation: NaN svmaccu: 100.00
+round 1 accuracy: 100.00
+Average accuracy: 20.00, Standard deviation: 44.72 svmaccu: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 100.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
+round 1 accuracy: 0.00
